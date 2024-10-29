@@ -17,9 +17,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am an undergraduate intern student at the Multimodal AI Lab. at Hanyang University
-
-Under the supervision of Professor Dongjin Kim at the Multimodal AI Lab.
+I am an undergraduate intern student at the Hanyang university Multimodal AI Lab,
+under the supervision of Professor Dongjin Kim.
 
 My research focuses on Multimodal AI, specifically Multimodal learning.
 

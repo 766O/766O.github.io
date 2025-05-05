@@ -21,12 +21,10 @@ I am an M.S./Ph.D. Integrated student at the Hanyang University Multimodal AI La
 under the supervision of Professor Dong-jin Kim.
 
 My research focuses on Multimodal AI, specifically Multimodal learning.
-
-1. **Data efficient Domain adaptation & generalization**: Perform domain adaptation and generalization in zero-shot and few-shot settings using a multimodal embedding space.
    
-2. **Data Issues in Deep Learning**: An effective approach to addressing long-tail scenarios and data scarcity in the vision domain by leveraging text information.
+1. **Data Issues in Deep Learning**: I am interested in effective learning strategies for multimodal tasks under data-constrained conditions.
 
-3. **Utilizing synthetic data**: Efficient methods for utilizing synthetic data.
+2. **Utilizing synthetic data**: I am interested in effective methods for utilizing synthetic data.
 
 
 

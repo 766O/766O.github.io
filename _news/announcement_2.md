@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- One paper is accepted in CVPR 2025!
+ One paper has been accepted in CVPR 2025!

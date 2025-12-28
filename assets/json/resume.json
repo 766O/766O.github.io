@@ -48,18 +48,32 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "SIDA: Synthetic Image Driven Zero-shot Domain Adaptation",
+      "publisher": "ACM Multimedia (MM)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Ye-Chan Kim, SeungJu Cha, Si-Woo Kim, Taewhan Kim, Dong-Jin Kim"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Sali4Vid: Saliency-Aware Video Reweighting and Adaptive Caption Retrieval for Dense Video Captioning",
+      "publisher": "Empirical Methods in Natural Language Processing (EMNLP)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "MinJu Jeon, Si-Woo Kim, Ye-Chan Kim, HyunGee Kim, Dong-Jin Kim"
+    },
+    {
+      "name": "SynC: Synthetic Image Caption Dataset Refinement with One-to-many Mapping for Zero-shot Image Captioning",
+      "publisher": "ACM Multimedia (MM)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Si-Woo Kim, MinJu Jeon, Ye-Chan Kim, Soeun Lee, Taewhan Kim, Dong-Jin Kim"
+    },
+    {
+      "name": "VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness",
+      "publisher": "IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "SeungJu Cha, Kwanyoung Lee, Ye-Chan Kim, Hyunwoo Oh, Dong-Jin Kim"
     }
   ],
   "skills": [

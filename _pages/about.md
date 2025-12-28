@@ -16,25 +16,11 @@ education: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
 I am an M.S./Ph.D. Integrated student at the Hanyang University Multimodal AI Lab,
 under the supervision of Professor Dong-Jin Kim.
 
 My research focuses on Multimodal AI, specifically Multimodal learning.
-   
+
 1. **Data Issues in Deep Learning**: I am interested in effective learning strategies for multimodal tasks under data-constrained conditions.
 
 2. **Utilizing Synthetic Data**: I am interested in effective methods for utilizing synthetic data.
-
-
-
-
-
-
-
-
-
-
-
-
-

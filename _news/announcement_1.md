@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I have joined the Multimodal AI Lab !!! :sparkles: :smile:
+I have joined the Multimodal AI Lab !!! :sparkles: :smile:

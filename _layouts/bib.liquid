@@ -59,7 +59,7 @@
 
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
-        {%- if author.first == "Ye-Chan" %}
+        {%- if author.first == 'Ye-Chan' %}
           {%- assign author_is_self = true -%}
         {%- endif -%}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}

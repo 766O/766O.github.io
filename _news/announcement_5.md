@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was selected as a recipient of the NRF Korea Master's Fellowship!
+I was selected as a recipient of the NRF Korea Masters Fellowship!

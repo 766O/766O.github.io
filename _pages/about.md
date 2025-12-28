@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hanyang University, ITBT 1210 Seoul, South Korea</p>
+    <p>Hanyang University, FTC 512 Seoul, South Korea</p>
 
 news: true # includes a list of news items
 education: true # includes a list of papers marked as "selected={true}"

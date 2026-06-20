@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hanyang University, FTC 512 Seoul, South Korea</p>
+    <p>Hanyang University, FTC 521 Seoul, South Korea</p>
 
 news: true # includes a list of news items
 education: true # includes a list of papers marked as "selected={true}"
@@ -21,6 +21,8 @@ under the supervision of Professor Dong-Jin Kim.
 
 My research focuses on Multimodal AI, specifically Multimodal learning.
 
-1. **Data Issues in Deep Learning**: I am interested in effective learning strategies for multimodal tasks under data-constrained conditions.
+1. **Video Understanding**: I am interested in understanding and describing events in videos.
 
-2. **Utilizing Synthetic Data**: I am interested in effective methods for utilizing synthetic data.
+2. **Data Issues in Deep Learning**: I am interested in effective learning strategies for multimodal tasks under data-constrained conditions.
+
+3. **Utilizing Synthetic Data**:  I am interested in effective methods for utilizing synthetic data in Vision-Language tasks.

@@ -105,11 +105,6 @@
   ],
   "interests": [
     {
-      "name": "Multimodal Learning",
-      "icon": "fa-solid fa-tag",
-      "keywords": []
-    },
-    {
       "name": "Video Understanding",
       "icon": "fa-solid fa-tag",
       "keywords": ["Dense Video Captioning", "Video Temporal Grounding"]
@@ -136,7 +131,7 @@
     },
     {
       "name": "Self-Learning Framework for VLM-based Defect Detection and Explanation Model in Manufacturing Processes",
-      "summary": "",
+      "summary": "Institute of Information & Communications Technology Planning & Evaluation (IITP)",
       "highlights": ["VLM-based defect detection and explanation in manufacturing"],
       "startDate": "2025-04-01",
       "url": ""

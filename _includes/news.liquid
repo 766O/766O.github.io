@@ -38,19 +38,25 @@
           </table>
         </div>
       </div>
-      <button id="news-toggle-btn" onclick="toggleNews()" class="btn btn-sm btn-outline-secondary mt-1">
-        show more
-      </button>
+      <div style="text-align: center; margin-top: 0.1rem; margin-bottom: 1.5rem;">
+        <a href="#" id="news-toggle-btn" onclick="toggleNews(); return false;"
+           style="font-size: 0.8rem; color: var(--global-text-color-light); text-decoration: none;">
+          show more <i id="news-toggle-icon" class="fa-solid fa-angle-down" style="font-size: 0.75rem;"></i>
+        </a>
+      </div>
       <script>
         function toggleNews() {
           var moreDiv = document.getElementById('news-more');
           var btn = document.getElementById('news-toggle-btn');
+          var icon = document.getElementById('news-toggle-icon');
           if (moreDiv.style.display === 'none') {
             moreDiv.style.display = 'block';
-            btn.textContent = 'show less';
+            btn.childNodes[0].nodeValue = 'show less ';
+            icon.className = 'fa-solid fa-angle-up';
           } else {
             moreDiv.style.display = 'none';
-            btn.textContent = 'show more';
+            btn.childNodes[0].nodeValue = 'show more ';
+            icon.className = 'fa-solid fa-angle-down';
           }
         }
       </script>

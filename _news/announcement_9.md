@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started research internship at Naver Cloud, Multimodal Foundation Team! 🥳
+Started research internship at Naver Cloud, Multimodal Foundation Team!

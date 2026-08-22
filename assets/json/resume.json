@@ -48,6 +48,13 @@
   ],
   "publications": [
     {
+      "name": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+      "publisher": "Empirical Methods in Natural Language Processing (EMNLP)",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "<u>Ye-Chan Kim</u>, Seunghee Choi, SeungJu Cha, Si-Woo Kim, Hwiseon Kim, HyunGee Kim, Dong-Jin Kim"
+    },
+    {
       "name": "SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning",
       "publisher": "IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)",
       "releaseDate": "2026",

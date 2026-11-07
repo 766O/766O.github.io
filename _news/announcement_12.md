@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted in NeurIPS 2026! 🥳
+One paper has been accepted in NeurIPS 2026!
